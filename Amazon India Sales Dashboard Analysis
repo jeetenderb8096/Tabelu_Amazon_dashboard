@@ -2,8 +2,6 @@ Overview
 This repository contains the analysis and insights derived from a Tableau dashboard tracking Amazon India's sales, shipping, and quantity metrics. The project demonstrates proficiency in data visualization, business intelligence tools, and data-driven storytelling, essential skills for data analysis roles.
 
 
-
-
 Project Details
 Purpose: To analyze sales trends, shipping performance, and category-wise sales to uncover actionable insights for business improvement.
 Dataset: Sales, quantity, and shipping data from Amazon India.
@@ -17,8 +15,6 @@ Key Features of the Dashboard
 Sales and Revenue Analysis:
 Weekly trends in quantity and revenue across categories.
 Identification of seasonal demand and declining revenue trends.
-
-
 
 Shipping Performance:
 Analysis of courier status, including shipped and unshipped orders.
